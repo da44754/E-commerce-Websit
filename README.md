@@ -1,7 +1,7 @@
 # E-commerce-Websit
 This is an innovative e-commerce platform developed using a combination of C++, HTML, JavaScript, and the React framework. With a focus on providing a seamless shopping experience akin to leading online retailers like Amazon and Noon, our platform empowers users to browse, search, and purchase a wide range of products conveniently from their web browsers.
 
-Key Features:
+# Key Features:
 
 -  React Framework: Leveraging the power of React, our website offers dynamic and responsive user interfaces, ensuring a smooth and enjoyable browsing experience across devices.
 
